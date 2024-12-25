@@ -30,3 +30,5 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/frontend-assignment-for-the-code-ant-ai.git
    cd frontend-assignment-for-the-code-ant-ai
+2. For Start Server
+   use - npm run start
